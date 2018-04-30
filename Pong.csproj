@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{51D1E3E2-5E00-E55E-B393-7FA7E1ED8472}</ProjectGuid>
+    <ProjectGuid>{F601AE8D-56FE-9FA0-FCA6-1E4E97AEAE2F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -282,9 +282,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Pong.Plugins.csproj">
-      <Project>{F3E09065-ABF3-2F55-BB09-A8BA2FC19873}</Project>
-      <Name>Pong.Plugins</Name>
+    <ProjectReference Include="pong.Plugins.csproj">
+      <Project>{BFFC398E-43D6-9424-E73E-E16AA28F9761}</Project>
+      <Name>pong.Plugins</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
